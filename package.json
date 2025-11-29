@@ -1,11 +1,11 @@
 {
-  "name": "template",
+  "name": "Oleksandr",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/template/",
+    "build": "vite build --base=/Oleksandr/",
     "preview": "vite preview"
   },
   "devDependencies": {
