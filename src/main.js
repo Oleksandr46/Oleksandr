@@ -138,3 +138,27 @@
 // console.log(courseTopicLength);
 // console.log(firstElement);
 // console.log(lastElement);
+
+// const a = 2;
+// const b = 5;
+// console.log(a > b); // false
+// console.log(b > a); // true
+// console.log(a >= b); // false
+// console.log(b >= a); // true
+// console.log(a < b); // true
+// console.log(b < a); // false
+// console.log(a <= b); // true
+// console.log(b <= a); // false
+
+// const age = 16;
+// const isAdult = age >= 18;
+// console.log(isAdult);
+
+// console.log(5 == 5); // true
+// console.log(5 == 3); // false
+// console.log(5 != 3); // true
+// console.log(5 != 5); // false
+
+const correctPassword = 'jqueryismyjam';
+const userPassword = 'mangodab3st';
+const isValid = correctPassword === userPassword;
